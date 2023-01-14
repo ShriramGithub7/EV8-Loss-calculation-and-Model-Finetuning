@@ -2,7 +2,12 @@
 
 This repository has 2 parts:
 
-Part 1: This section shows illustration of how loss is calculated and weights are updated in back-propogation. Excel is used that has mathematical formulas that will show how loss value is calculated after each batch. 
+**Part 1:** This section shows illustration of how loss is calculated and weights are updated in back-propogation. Excel is used that has mathematical formulas that will show how loss value is calculated after each batch. 
+
+**Part 2:** This section has MNIST model that is finetuned to achive 99.40% accuracy, within 20 epochs and with 18820 parameters. GAP, FC, Batch normalization is used in the model. 
+
+**Part 1: LOSS Calculation and Back Propogation**:
+
 
 ![image](https://user-images.githubusercontent.com/93775361/212442858-f96bf3d7-f94d-42ce-ba8c-415dfb4376b0.png)
 
