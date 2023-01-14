@@ -8,15 +8,15 @@ This repository has 2 parts:
 
 **Part 1: LOSS Calculation and Back Propogation**:
 
+![image](https://user-images.githubusercontent.com/93775361/212448277-0bd2fdeb-2c11-4a6c-af61-e8108ab656f2.png)
 
-![image](https://user-images.githubusercontent.com/93775361/212442858-f96bf3d7-f94d-42ce-ba8c-415dfb4376b0.png)
+![image](https://user-images.githubusercontent.com/93775361/212448303-c557fe8f-6d1d-4a96-8ac8-01f7ff3ecdbd.png)
 
-![image](https://user-images.githubusercontent.com/93775361/212442900-0c503310-07b1-47f2-b861-16151f0e3c84.png)
-
-![image](https://user-images.githubusercontent.com/93775361/212442947-cc1b6395-e883-4b2c-b6f1-54ba0e76d3eb.png)
+![image](https://user-images.githubusercontent.com/93775361/212448324-44e528d0-3613-428b-94c2-60afa9b07815.png)
 
 
-![image](https://user-images.githubusercontent.com/93775361/212443006-53bd9098-2e2c-4d20-ae8f-5b0d69b2bc3b.png)
+![image](https://user-images.githubusercontent.com/93775361/212448206-e5fb58b1-a459-4e1c-a3d5-b3479ff19e64.png)
+
 
 
 Now change the learning rates see below the effect of the same on Loss graph:
