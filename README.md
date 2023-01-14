@@ -10,6 +10,8 @@ This repository has 2 parts:
 
 Below screenshot shows the basic network structure with 1 input, 1 hidden and 1 output layer. It also shows how individual parameter values and derivative values are calculated. These values are then used to calculate gradient of the network.
 
+Please note that excel sheet is also attached in the repository, so it can be used to cross check below details. Also, we can play with different input, output values, initial weights and different learning rates to see how loss is updated and graph is projected.
+
 ![image](https://user-images.githubusercontent.com/93775361/212448379-7a9e2891-21d9-428a-be8e-9d184515b8b7.png)
 
 
