@@ -8,7 +8,8 @@ This repository has 2 parts:
 
 **Part 1: LOSS Calculation and Back Propogation**:
 
-![image](https://user-images.githubusercontent.com/93775361/212448277-0bd2fdeb-2c11-4a6c-af61-e8108ab656f2.png)
+![image](https://user-images.githubusercontent.com/93775361/212448379-7a9e2891-21d9-428a-be8e-9d184515b8b7.png)
+
 
 ![image](https://user-images.githubusercontent.com/93775361/212448303-c557fe8f-6d1d-4a96-8ac8-01f7ff3ecdbd.png)
 
