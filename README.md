@@ -13,7 +13,7 @@ Below screenshot shows the basic network structure with 1 input, 1 hidden and 1 
 ![image](https://user-images.githubusercontent.com/93775361/212448379-7a9e2891-21d9-428a-be8e-9d184515b8b7.png)
 
 
-After parameter and derivatives formulas are calculated, use those formulas and calculate the actual values of loss and gradients for first batch. For the susequent batch/epochs, use the gradients from previous layer and update the weights and calculate the loss. 
+After parameter and derivatives formulas are calculated, use these formulas and calculate the actual values of loss and gradients for first batch. For the susequent batch/epochs, use the gradients from previous layer and update the weights and calculate the loss. 
 
 ![image](https://user-images.githubusercontent.com/93775361/212448303-c557fe8f-6d1d-4a96-8ac8-01f7ff3ecdbd.png)
 
