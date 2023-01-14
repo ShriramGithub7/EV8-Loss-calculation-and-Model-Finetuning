@@ -60,3 +60,18 @@ Note: Above graph, there are couple of records of excel sheet. That shows update
 **Learning Rate: 2.0**
 
 ![image](https://user-images.githubusercontent.com/93775361/212443819-675fc9a4-00fc-4c0f-b0de-59c96cf5b105.png)
+
+
+
+**Part 2: MNIST dataset model finetuning**:
+
+Model is finetuned to achieve 99.40% accuracy. 
+Existing code is changed thereby adding Batch normalization, Dropout, GAP, and Fully connected layer.
+
+**Below is final statistics:**
+
+total number of parameters: **18820**
+
+final validation/test accuracy: **99.40%**
+
+other additional things you might have used in your code: **Added BN, Dropout, GAP, FC layer and changed values of number of kernals in each layer.**
