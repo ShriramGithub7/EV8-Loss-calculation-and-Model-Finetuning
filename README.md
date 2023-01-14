@@ -34,7 +34,8 @@ Plot the graph between epochs and loss. It can be seen how loss gets reduced wit
 Now change the learning rates see below the effect of the same on Loss graph:
 
 **Learning Rate: 0.1**
-Note: Above graph, there are couple of records of excel sheet. That shows updated loss value after last epoch
+
+Note: In the graphs screenshot, there are couple of records of excel sheet. That shows updated loss value after last epoch
 
 ![image](https://user-images.githubusercontent.com/93775361/212443604-4fb38af6-7db0-4247-8c0f-918f8445a5ee.png)
 
